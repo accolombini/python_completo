@@ -13,7 +13,7 @@ print(f'Imprime o tipo da variável strign => {type(nome)}')
 # Incorreto
 # frase = 'Avocado's day
 # Correto
-frase = "Avocado's day"  # Note que a necessidade do uso de uma aspas simples impede o uso das aspas simples neste caso
+frase = "Avocado's day"  # Note que há necessidade do uso de uma aspas simples impede o uso das aspas simples neste caso
 print(f'A frase do dia de hoje é => {frase}')
 # Imagina que queria dar um enter numa frase -> observe
 frase2 = 'Dia do abacate \n 31 de julho de 2020'

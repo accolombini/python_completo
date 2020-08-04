@@ -1,11 +1,12 @@
 """
-Listas => em Python funcionam como vetores/matrizes (arrays) de outras linguagens, com a diferença de serem
+Listas  list=> em Python funcionam como vetores/matrizes (arrays) de outras linguagens, com a diferença de serem
 DINÂMICOS e também poderem trabalhar com QUALQUER tipo de dado.
 $$ DINÂMICO: não possui tamanho fixo: ou seja, podemos criar a lista e simplesmente ir adicionando elementos
 $$ QUALQUER: listas não possuem tipo de dados fixo, ou seja, simplesmente você cria uma lista e adicona
 qualquer tipo de dado nela. As listas em Pyton são representadas por colchetes: []
 
 Nota: para saber mais da potencialidade de uma lista Python digite dir(lista)
+IMPORTANTE: as listas são mutáveis, ou seja elas podem mudar constantemente
 
 """
 type([])
@@ -414,3 +415,10 @@ print(f'A lista original após sua cópia ter realizado um append -> {lista}')
 lista.append(8)
 print(f'A nova lista lista cópia de lista após o uso do append pela lista original -> {nova}')
 print(f'A lista original após sua ela ter realizado um append -> {lista}')
+
+# Trabalhando com range
+lista = list(range(1, 100, 2))
+print(f'A soma dos valores da lista é -> {sum(lista)} - o tipo de dados é -> {type(lista)}')
+print(f'O máximo valor da lista gerada por range() é -> {max(lista)}')
+print(f'O menor valor da lista gerada por range() é -> {min(lista)}')
+print(f'O tamanho da lista gerada por range() é -> {len(lista)}')

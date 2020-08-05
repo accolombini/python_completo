@@ -7,7 +7,7 @@ receita = {'jan': 100, 'fev': 250, 'mar': 400, 'abr': 600}
 
 print(f'O dicionário de testes é -> {receita} - e seu tipo é {type(receita)}')
 
-# Como inteirar sobre dicionários
+# Como iteirar sobre dicionários
 for chave in receita:
     print(f'Em receita temos as chaves -> {chave} - e os valores {receita[chave]}')
     print(f'Em {chave} recebi R$ {receita[chave]}')
@@ -15,7 +15,7 @@ for chave in receita:
 # Podemos facilmente conhecer todas as chaves de um dicionário com o método .keys()
 print(f'As chaves presentes no dicionári {receita} - são -> {receita.keys()} - seu tipo é => {type(receita.keys())}')
 
-# Outro exemplo de interação utilizando o dicionário de chaves => forma Pythonica para iteração
+# Outro exemplo de iteração utilizando o dicionário de chaves => forma Pythonica para iteração
 for chave in receita.keys():
     print(f'Usando o dicionário .keys() chave => {chave} - valor => {receita[chave]}')
 

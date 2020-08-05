@@ -221,11 +221,11 @@ print(f'Novo dicionário criado de forma não convencional outro -> {outro} - e 
 usuario = {}.fromkeys(['nome', 'pontos', 'email', 'profile'], 'desconhecido')
 print(f'Novo dicionário criado de forma não convencional usuario -> {usuario} - e seu tipo é -> {type(usuario)}')
 
-# OBS.: o método fromkeys recebe dois parâmetros: um interável e um valor
-# Ele vai gerar para cada valor do interável uma chave e irá atribuir a esta chaveo valor informado
+# OBS.: o método fromkeys recebe dois parâmetros: um iterável e um valor
+# Ele vai gerar para cada valor do iterável uma chave e irá atribuir a esta chaveo valor informado
 
-veja = {}.fromkeys('teste', 'valor')  # Note que teste é um interável para fromkeys e será desmembrado como a seguir
-# onde cada letra da string será tratada com um interável e note que o último 'e' não foi convertido, isso ocorre
+veja = {}.fromkeys('teste', 'valor')  # Note que teste é um iterável para fromkeys e será desmembrado como a seguir
+# onde cada letra da string será tratada com um iterável e note que o último 'e' não foi convertido, isso ocorre
 # porque nos dicionários em Python não podem haver repetições de chaves
 print(f'Novo dicionário criado de forma não convencional veja -> {veja} - e seu tipo é -> {type(veja)}')
 

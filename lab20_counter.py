@@ -6,7 +6,8 @@ Counter -> recebe um iterável como parâmentro e cria um objeto do tipo Collect
 parecido com um dicionário, contendo como chave o elemento da lista passada como parâmetro e como valor
 a quantidade de ocorrências desse elemento.
 
-Para saber mais => https://docs.python.org/3/library/collections.html
+Para saber mais => https://docs.python.org/3/library/collections.html#collections.Counter
+Ou ainda utilize help(Counter)
 
 """
 # Realizando o import de Counter

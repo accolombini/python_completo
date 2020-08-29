@@ -9,6 +9,7 @@ Map ->> com map, fazemos mapeamento de valores para uma função
 """
 import math
 
+
 # Para este exemplo vamos trabalhar com cálculo de área de um circulo
 
 
@@ -39,7 +40,8 @@ print(f'Resolvendo para uma lista de raios -> {areas}')
 # Refatorando para o uso de map =>> Forma 2 ->> note o uso do cast list() para impressão
 areas = map(area, raios)
 print(f'Utilizando map() -> {areas}\nSeu tipo é {type(areas)}')  # Retorna um map objetct
-print(f'Utilizando map() com list() -> {list(areas)}\nSeu tipo é {type(areas)}')  # usando o cast list() retorna o coteúdo de map() object
+print(
+    f'Utilizando map() com list() -> {list(areas)}\nSeu tipo é {type(areas)}')  # usando o cast list() retorna o coteúdo de map() object
 
 areas = map(area, raios)
 print(f'Utilizando map() com tuple() -> {tuple(areas)}\nSeu tipo é {type(areas)}')  # Usando o cast tuple
@@ -58,7 +60,6 @@ print(f'Utilizando map() -> {tuple(map(area, raios))}\nSeu tipo é {type(areas)}
 
 print(f'Usando lambda com map() -> {list(map(lambda raio: math.pi * (raio ** 2), raios))}')
 
-
 # Para fixar o conceito de Map ->> temos dados iteráveis -> it; temos uma função f(x) =>> a função map(f, it)
 # =>> map irá 'mapear' cada elemento do iterável à função
 
@@ -73,9 +74,10 @@ print(f'A variável cidades é -> {cidades}\nSeu tipo é {type(cidades)}')
 # Fórmula de conversão =>> f = 9/5 * c + 32
 # Usando lambda para a conversão temos
 # Não use lambda assim, ok aqui estamos construindo os passos da solução
-c_para_f = lambda dado: (dado[0], 9/5 * dado[1] + 32)
+c_para_f = lambda dado: (dado[0], 9 / 5 * dado[1] + 32)
 
 print(f'Mapeando cidades e convertendo a temperatura com map -> {list(map(c_para_f, cidades))}')
 
 # Usando lambda da forma correta e profissional ->> teste de lambda foi ok
-print(f'Mapeando cidades e convertendo a temperatura com map -> {list(map(lambda dado: (dado[0], 9/5 * dado[1] + 32), cidades))}')
+print(
+    f'Mapeando cidades e convertendo a temperatura com map -> {list(map(lambda dado: (dado[0], 9 / 5 * dado[1] + 32), cidades))}')

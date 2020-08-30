@@ -12,7 +12,14 @@ Módulos Externos => são módulos que não são instalados previamente com a li
     colorama é utilizado para a impressão de textos coloridos no terminal.
     Para usar colorama é necessário fazer o import de init =>> from colorama inport init e executar a função init()
 
+    Num segundo exemplo vamos instalar o módulo externo fpdf2 =>> pip install fpdf2. Este módulo nos permite
+    converter para pdf de forma configurada e formatada para o formato .pdf. Para maiores detalhes de uso e
+    configuração deste módulo consulte ->> https://pypi.org/project/fpdf2/
+    Para usar este módulo externo devemos fazer o seguinte import ->> from fpdf import FPDF
+
+
 """
+from fpdf import FPDF
 from colorama import init, Fore, Style, Back
 init()
 
@@ -27,3 +34,16 @@ print(f'Teste colorama ->> {Back.LIGHTBLACK_EX + "Python para Ciência de Dados"
 print(f'O que fica após o uso do Back ->> {"Olá Python"}')  # Note que é preciso resetar para que o fundo retorne
 print(f'Teste colorama ->> {Style.RESET_ALL + "Python para Ciência de Dados"}')
 print(f'O que fica após o uso do Style.RESET_ALL ->> {"Olá Python"}')  # Voltamos ao normal
+
+
+# Trabalhando com o módulo fpdf
+
+title = '20000 Leagues Under the Seas'
+pdf = FPDF()
+pdf.add_page()
+pdf.set_font("Arial", size=15)
+pdf.cell(200, 10, txt="Ola Mundo!!!", ln=1, align="C")
+
+# Salvando como pdf
+
+pdf.output("Gera_PDF")

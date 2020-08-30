@@ -13,7 +13,6 @@ Módulos Externos => são módulos que não são instalados previamente com a li
     Para usar colorama é necessário fazer o import de init =>> from colorama inport init e executar a função init()
 
 """
-
 from colorama import init, Fore, Style, Back
 init()
 

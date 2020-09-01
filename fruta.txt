@@ -1,0 +1,4 @@
+Teste abertura com diretiva 'r+' - linha 1
+Substituindo essa linha por nova linha - linha 2
+ha 2
+Verificando a linha impressa - linha 3

@@ -1,3 +1,4 @@
 Este arquivo texto foi criado apenas para realizar testes para as aulas de leitura e escrita em Banco de Dados.
-Este arquivo texto foi criado apenas para realizar testes para as aulas de leitura e escrita em Banco de Dados.
-Este arquivo texto foi criado apenas para realizar testes para as aulas de leitura e escrita em Banco de Dados.
+Observamos que a funcao read() permite a leitura do arquivo todo, nao importa seu tamanho.
+No entanto, ao tentar imprimir pela segunda vez o arquivo teremos como retorno um texto em branco.
+Isso ocorre porque a funcao read() posiciona o cursor no final do arquivo, dai a necessidade do uso de seek().

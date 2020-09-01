@@ -1,0 +1,3 @@
+Escrever em arquivos em Python é muito fácil.
+Podemos escrer a quantidade de texto que for necessária.
+Está nossa última linha!!

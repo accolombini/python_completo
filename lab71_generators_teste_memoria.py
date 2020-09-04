@@ -12,9 +12,13 @@ Teste de memória com Generators => uso mais eficiente dos recusos de memória
         for n in fib_lista(100):
             print(f'Sequência de Fibonacci de 100 termos -> {n}')
 
+        NOTA:   Para visualizar os efeitos deste testes recomenda-se utilizar algum software do seu SO para monitorar
+                consumo de memória. Poderá ser interessante aumentar o número de iterações para que seja visível nos
+                testes.
+
         """
 # Função Fibonacci
-# Teste 1 ->> função usando listas => consumo de 1.4163,5 MB de memória
+# Teste 1 ->> função usando listas
 
 
 def fib_lista(max_term):
@@ -27,7 +31,7 @@ def fib_lista(max_term):
 
 
 # Função Fibonacci
-# Teste 2 ->> usando geradores => consumo de 300 MB memória
+# Teste 2 ->> usando geradores
 
 
 def fib_gen(max_term):

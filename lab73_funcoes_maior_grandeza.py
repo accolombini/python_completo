@@ -86,4 +86,4 @@ def faz_me_rir_novamente(pessoa):
 
 # Testando Inner
 rindo_novamente = faz_me_rir_novamente('Ferdinando')  # Novamente rindo_novamente será do tipo -> <class 'function'>
-print(f'Testando fa função Inner acessando o escopo de funções mais externas -> {rindo_novamente()}')
+print(f'Testando a função Inner acessando o escopo de funções mais externas -> {rindo_novamente()}')

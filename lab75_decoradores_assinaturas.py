@@ -83,7 +83,7 @@ def verifica_primeiro_argumento(valor):
 
 @verifica_primeiro_argumento('pizza')
 def comida_favorita(*args):
-    print(f'Este é o valor de args -> {args}')
+    return args
 
 
 @verifica_primeiro_argumento(10)
@@ -93,6 +93,6 @@ def soma_dez(num1, num2):
 
 # Testando ->> validando argumentos
 
-# print(f'Teste de soma -> {soma_dez(100, 20)}')  # Observe -> Teste de soma -> Valor incorreto! Primeiro argumento precisa ser 10
+print(f'Teste de soma -> {soma_dez(10, 20)}')  # Observe -> Teste de soma -> Valor incorreto! Primeiro argumento precisa ser 10
 
 print(f'{comida_favorita("pizza", "ravioli")}')

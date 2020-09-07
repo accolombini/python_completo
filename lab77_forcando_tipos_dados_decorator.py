@@ -16,14 +16,14 @@ def forca_tipo(*tipos):  # Note que *tipos equivale a *args -> o nome aqui é pa
     def decorador(funcao):  # Esta será a função decorador -> aquela que irá alterar o comportamento
         def converte(*args, **kwargs):  # Lembre-se que estes parâmetros são imutáveis. Podemos receber dif. valores
             novo_args = []  # Necessário, pois os parâmetros são imutáveis e aqui queremos manipulá-los
-            for(valor, tipo) in zip(args, tipos):
+            for valor, tipo in zip(args, tipos):
                 novo_args.append((tipo(valor)))  # Observe aqui que tipo é na verdade um cast para *tipos
             return funcao(*novo_args, **kwargs)
         return converte
     return decorador
 
 
-@forca_tipo(str, int)
+@forca_tipo(str, int)  # Note que estamos decorando -> str para msg e int para vezes
 def repete_msg(msg, vezes):
     for vez in range(vezes):
         print(f'{msg}')
@@ -35,7 +35,7 @@ print(f'\n')
 repete_msg('Python', 3)  # Contador inteiro
 
 
-@forca_tipo(float, float)
+@forca_tipo(float, float)  # Note que estamos decorando -> float para a e float para b
 def dividir(a, b):
     print(f'{a/b}')
 

@@ -12,10 +12,10 @@ Formas gerais:
 1 em 1 e valor_de_parada é não inclusive
 
 </> Forma 3 -> range(valor_de_inicio, valor_de_parada, passo) => especifica um início diferente de 0,
-especifica um passo diferente do default,ou melhor diferente de 1 em 1, valor_de_parada é não inclusive
+especifica um passo diferente do default, ou melhor diferente de 1 em 1, valor_de_parada é não inclusive
 
-</> Forma 4 -> range(valor_de_inicio, valor_de_parada, passo) => especifica um início diferente de 0,
-especifica um passo diferente do default,ou melhor diferente de 1 em 1, valor_de_parada é não inclusive. Usado para
+</> Forma 4 -> range(valor_de_inicio, valor_de_parada, -passo) => especifica um início diferente de 0,
+especifica um passo diferente do default, ou melhor diferente de 1 em 1, valor_de_parada é não inclusive. Usado para
 fazer a inversão => range -> inverso
 
 """

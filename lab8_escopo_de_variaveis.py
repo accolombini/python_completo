@@ -1,7 +1,7 @@
 """
 Escopo de variáveis => são dois os escopos de variáveis <=> variáveis globais e variáveis locais
 1- Variáveis globais => são reconhecidas, ou melhor, seu escopo compreende todo o programa
-2- Variáveis locais => são reconhecidas. ou melhor, seu escopo compreende o bloco de código onde foi declarada
+2- Variáveis locais => são reconhecidas, ou melhor, seu escopo compreende o bloco de código onde foi declarada
 
 Para declarar variáveis em Python, basta estabelecer o nome da variável e atribuir um valor
 
@@ -18,7 +18,8 @@ int soma = 0;   # declara uma variável do tipo inteiro e atribui valor zero a e
 
 Exemplo em Python:
 soma = 0   # declara uma variável do tipo inteiro e atribui valor zero a ela
-
+No exemplo a variável novo está no contexto do bloco if, logo seu valor é local ao bloco e só será vista se em algum
+momento o sistema entrar no bloco if
 A mensagem para a variável novo quando numero é igual a 5 => NameError: name 'novo' is not defined
 
 """
@@ -30,7 +31,7 @@ print(f'A variável número é do tipo => {type(numero)} e seu valor é => {nume
 numero = 'abacate'
 print(f'A variável número após reatribuição é do tipo => {type(numero)} e seu valor é => {numero}')
 
-# Exemplos de variáveis locais
+# Exemplos de variáveis locais e variáveis globais
 numero = 25
 if numero > 10:
     novo = numero * 5

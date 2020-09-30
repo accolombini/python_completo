@@ -1,7 +1,7 @@
 """
 Loop while -> A sua forma geral é bem simples
 while expressão_booleana:
-    //execução do loop
+    ||execução do loop
 
 O bloco while será repetido enquanto a expressão booleana for verdadeira
 Expressão Booleana é toda expressão onde o resultado é verdadeiro ou falso

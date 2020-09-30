@@ -1,9 +1,9 @@
 """
 Loop for -> trata-se de uma estrutura de repetição
-for item in intervavel:
+for item in iteravel:
     execução do loop
 
-Utilizamos loop para iteirar sobre sequências ou sobre valore iteráveis.
+Utilizamos loop para iteirar sobre sequências ou sobre valores iteráveis.
 Exemplos de iteráveis => strings, listas, dicionários, tuplas, range
 
 """

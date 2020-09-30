@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9c5dd89-3037-435b-bfe6-3ea4d6d3a795" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lab84_heranca.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/accol.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/accol.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_completo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_completo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruta.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fruta.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek/pacote_geek1.py" beforeDir="false" afterPath="$PROJECT_DIR$/geek/pacote_geek1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek/pacote_geek2.py" beforeDir="false" afterPath="$PROJECT_DIR$/geek/pacote_geek2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek/python/pacote_python_geek3.py" beforeDir="false" afterPath="$PROJECT_DIR$/geek/python/pacote_python_geek3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek/python/pacote_python_geek4.py" beforeDir="false" afterPath="$PROJECT_DIR$/geek/python/pacote_python_geek4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10_and_or_not_is.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10_and_or_not_is.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab11_loop_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab11_loop_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab12_entendendo_ranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab12_entendendo_ranges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab13_loop_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab13_loop_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab14_comando_break.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab14_comando_break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab15_listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab15_listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab16_tuplas.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab16_tuplas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab17_dicionarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab17_dicionarios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab18_mapas.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab18_mapas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab19_conjuntos.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab19_conjuntos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1_primeirospassos.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1_primeirospassos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab20_counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab20_counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab21_default_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab21_default_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab22_ordered_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab22_ordered_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab23_named_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab23_named_tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab24_deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab24_deque.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab25_definindo_funcoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab25_definindo_funcoes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab26_funcoes_com_retorno.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab26_funcoes_com_retorno.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab27_funcoes_com_parametros.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab27_funcoes_com_parametros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab28_funcoes_com_parametro_padrao.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab28_funcoes_com_parametro_padrao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab29_documentando_docstrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab29_documentando_docstrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2_dir_help.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_dir_help.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab30_args.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab30_args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab31_kwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab31_kwargs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab32_list_comprehension_parte1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab32_list_comprehension_parte1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab33_list_comprehension_parte2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab33_list_comprehension_parte2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab34_listas_aninhadas.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab34_listas_aninhadas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab35_dictionary_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab35_dictionary_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab36_set_compreension.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab36_set_compreension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab37_lambdas.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab37_lambdas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab38_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab38_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab39_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab39_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3_recebendodados_usuario.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3_recebendodados_usuario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab40_reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab40_reduce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab41_any_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab41_any_all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab42_generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab42_generators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab43_sorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab43_sorted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab44_min_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab44_min_max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab45_reversed.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab45_reversed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab46_len_abs_sum_round.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab46_len_abs_sum_round.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab47_zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab47_zip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab48_erros_comuns.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab48_erros_comuns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab49_raise.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab49_raise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4_tipo_numerico.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab4_tipo_numerico.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab50_try_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab50_try_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab51_trt_except_else_finally.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab51_trt_except_else_finally.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab52_pdb_debugguer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab52_pdb_debugguer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab53_modulo_random.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab53_modulo_random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab54_modulos_builtin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab54_modulos_builtin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab55_modulos_customizados.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab55_modulos_customizados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab56_modulos_externos.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab56_modulos_externos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab57_pacotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab57_pacotes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab58_dunder.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab58_dunder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab58b_funcoes_com_parametros.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab58b_funcoes_com_parametros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab58c_testando_dunder1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab58c_testando_dunder1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab58d_testando_dunder2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab58d_testando_dunder2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab59_leitura_de_arquivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab59_leitura_de_arquivos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5_tipo_float.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5_tipo_float.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab60_seek_e_cursors.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab60_seek_e_cursors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab61_bloco_with.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab61_bloco_with.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab62_escrevendo_em_arquivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab62_escrevendo_em_arquivos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab63_modos_abertura_arquivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab63_modos_abertura_arquivos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab64_stringio.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab64_stringio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab65_sistema_arquivos_navegacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab65_sistema_arquivos_navegacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab66_sistema_arquivos_manipulacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab66_sistema_arquivos_manipulacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab67_entendendo_iterators_iterables.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab67_entendendo_iterators_iterables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab68_criando_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab68_criando_loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab69_escrevendo_iterador_customizado.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab69_escrevendo_iterador_customizado.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6_tipo_booleano.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab6_tipo_booleano.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab70_geradores.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab70_geradores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab71_generators_teste_memoria.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab71_generators_teste_memoria.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab72_generators_teste_velocidade.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab72_generators_teste_velocidade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab73_funcoes_maior_grandeza.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab73_funcoes_maior_grandeza.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab74_decoradores.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab74_decoradores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab75_decoradores_assinaturas.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab75_decoradores_assinaturas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab76_preservando_metadata_wraps.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab76_preservando_metadata_wraps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab77_forcando_tipos_dados_decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab77_forcando_tipos_dados_decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab78_orientacao_objetos_conceitos.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab78_orientacao_objetos_conceitos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab79_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab79_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab7_tipo_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab7_tipo_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab80_atributos.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab80_atributos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab81_metodos.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab81_metodos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab82_objetos.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab82_objetos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab83_abstracao_encapsulamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab83_abstracao_encapsulamento.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab8_escopo_de_variaveis.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab8_escopo_de_variaveis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab9_if_else_elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab9_if_else_elif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mais_pode_encontrar.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mais_pode_encontrar.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/novo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/para_lixeira2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/para_lixeira2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texto.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texto.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/univeridades.txt" beforeDir="false" afterPath="$PROJECT_DIR$/univeridades.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="529a9a2a-38d9-4158-a116-d1d772cdf5b5" />
+  <component name="ProjectId" id="1fQXFh1QmTNERClhDQn9THZEoRU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="python_completo" is-module-sdk="true">
+        <option name="useSoftWraps" value="true" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="python_completo" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.lab2_dir_help">
+    <configuration name="lab2_dir_help" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_completo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2_dir_help.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab80_atributos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_completo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab80_atributos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab81_metodos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_completo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab81_metodos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab82_objetos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_completo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab82_objetos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab83_abstracao_encapsulamento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_completo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab83_abstracao_encapsulamento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab2_dir_help" />
+        <item itemvalue="Python.lab83_abstracao_encapsulamento" />
+        <item itemvalue="Python.lab82_objetos" />
+        <item itemvalue="Python.lab81_metodos" />
+        <item itemvalue="Python.lab80_atributos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9c5dd89-3037-435b-bfe6-3ea4d6d3a795" name="Default Changelist" comment="" />
+      <created>1596151188088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596151188088</updated>
+      <workItem from="1596151200226" duration="2290000" />
+      <workItem from="1596198255305" duration="4754000" />
+      <workItem from="1596204798912" duration="4721000" />
+      <workItem from="1596215951885" duration="7194000" />
+      <workItem from="1596388006979" duration="43406000" />
+      <workItem from="1596584186762" duration="3559000" />
+      <workItem from="1596635161705" duration="20385000" />
+      <workItem from="1596917666865" duration="22951000" />
+      <workItem from="1597239499006" duration="8064000" />
+      <workItem from="1597272386121" duration="166000" />
+      <workItem from="1597272582148" duration="3599000" />
+      <workItem from="1597356571353" duration="9279000" />
+      <workItem from="1597686615210" duration="7909000" />
+      <workItem from="1597705401511" duration="6401000" />
+      <workItem from="1597755880541" duration="19983000" />
+      <workItem from="1597841947117" duration="21661000" />
+      <workItem from="1597926308747" duration="14383000" />
+      <workItem from="1598274207210" duration="7176000" />
+      <workItem from="1598297888166" duration="12952000" />
+      <workItem from="1598357676790" duration="25879000" />
+      <workItem from="1598449666042" duration="6145000" />
+      <workItem from="1598719552378" duration="7307000" />
+      <workItem from="1598728619517" duration="203000" />
+      <workItem from="1598728983934" duration="807000" />
+      <workItem from="1598729814433" duration="9815000" />
+      <workItem from="1598801237876" duration="1275000" />
+      <workItem from="1598802558973" duration="10141000" />
+      <workItem from="1598896736405" duration="75000" />
+      <workItem from="1598896986610" duration="5712000" />
+      <workItem from="1598961342133" duration="14984000" />
+      <workItem from="1599049895340" duration="12542000" />
+      <workItem from="1599070142873" duration="27208000" />
+      <workItem from="1599310761790" duration="20656000" />
+      <workItem from="1599499546928" duration="12404000" />
+      <workItem from="1599574171582" duration="18530000" />
+      <workItem from="1600282901527" duration="15430000" />
+      <workItem from="1600798672712" duration="219000" />
+    </task>
+    <task id="LOCAL-00001" summary="Forçando tipos utilizando decoradores">
+      <created>1599499701729</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599499701729</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Forçando tipos utilizando decoradores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forçando tipos utilizando decoradores" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596204824839">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1596204824839" />
+    <state x="527" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598802586627">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="527" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1598802586627" />
+    <state x="449" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596215354767">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1596215354767" />
+    <state x="548" y="186" key="FileChooserDialogImpl" timestamp="1598729710894">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598729710894" />
+    <state width="1492" height="302" key="GridCell.Tab.0.bottom" timestamp="1600306647916">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="302" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600306647916" />
+    <state width="1492" height="302" key="GridCell.Tab.0.center" timestamp="1600306647916">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="302" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1600306647916" />
+    <state width="1492" height="302" key="GridCell.Tab.0.left" timestamp="1600306647916">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="302" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1600306647916" />
+    <state width="1492" height="302" key="GridCell.Tab.0.right" timestamp="1600306647916">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="302" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1600306647916" />
+    <state width="1492" height="277" key="GridCell.Tab.1.bottom" timestamp="1599421641612">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1599421641612" />
+    <state width="1492" height="277" key="GridCell.Tab.1.center" timestamp="1599421641612">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1599421641612" />
+    <state width="1492" height="277" key="GridCell.Tab.1.left" timestamp="1599421641612">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1599421641612" />
+    <state width="1492" height="277" key="GridCell.Tab.1.right" timestamp="1599421641612">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1599421641612" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1598802526830">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1598802526830" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1599499750933">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1599499750933" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1597364042018">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1597364042018" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="int(a) / int(b)" />
+        <watch expression="valor" language="Python" />
+        <watch expression="tipo" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_completo$lab80_atributos.coverage" NAME="lab80_atributos Coverage Results" MODIFIED="1599587472575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab41_any_all.coverage" NAME="lab41_any_all Coverage Results" MODIFIED="1597931209873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab39_filter.coverage" NAME="lab39_filter Coverage Results" MODIFIED="1597876582932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab43_sorted.coverage" NAME="lab43_sorted Coverage Results" MODIFIED="1597948336165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab12_entendendo_ranges.coverage" NAME="lab12_entendendo_ranges Coverage Results" MODIFIED="1596565921204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab35_dictionary_comprehension.coverage" NAME="lab35_dictionary_comprehension Coverage Results" MODIFIED="1597795367041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab83_abstracao_encapsulamento.coverage" NAME="lab83_abstracao_encapsulamento Coverage Results" MODIFIED="1600305396932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab28_funcoes_com_parametro_padrao.coverage" NAME="lab28_funcoes_com_parametro_padrao Coverage Results" MODIFIED="1597367211580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab52_pdb_debugguer.coverage" NAME="lab52_pdb_debugguer Coverage Results" MODIFIED="1598402705930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab36_set_compreension.coverage" NAME="lab36_set_compreension Coverage Results" MODIFIED="1597796659509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab5_tipo_float.coverage" NAME="lab5_tipo_float Coverage Results" MODIFIED="1596199486615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab21_default_dict.coverage" NAME="lab21_default_dict Coverage Results" MODIFIED="1596927674497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab76_preservando_metadata_wraps.coverage" NAME="lab76_preservando_metadata_wraps Coverage Results" MODIFIED="1599405032370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab81_metodos.coverage" NAME="lab81_metodos Coverage Results" MODIFIED="1599605598824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab16_tuplas.coverage" NAME="lab16_tuplas Coverage Results" MODIFIED="1596581018760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab42_generators.coverage" NAME="lab42_generators Coverage Results" MODIFIED="1597935119352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab29_documentando_docstrings.coverage" NAME="lab29_documentando_docstrings Coverage Results" MODIFIED="1597688187048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab33_list_comprehension_parte2.coverage" NAME="lab33_list_comprehension_parte2 Coverage Results" MODIFIED="1597776499782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab45_reversed.coverage" NAME="lab45_reversed Coverage Results" MODIFIED="1598302527488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab32_list_comprehension_parte1.coverage" NAME="lab32_list_comprehension_parte1 Coverage Results" MODIFIED="1597773125358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab74_decoradores.coverage" NAME="lab74_decoradores Coverage Results" MODIFIED="1599319707987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab14_comando_break.coverage" NAME="lab14_comando_break Coverage Results" MODIFIED="1596399247707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab31_kwargs.coverage" NAME="lab31_kwargs Coverage Results" MODIFIED="1597759205735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab75_decoradores_assinaturas.coverage" NAME="lab75_decoradores_assinaturas Coverage Results" MODIFIED="1599402758612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab27_funcoes_com_parametros.coverage" NAME="lab27_funcoes_com_parametros Coverage Results" MODIFIED="1597275944668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab8_escopo_de_variaveis.coverage" NAME="lab8_escopo_de_variaveis Coverage Results" MODIFIED="1596218030951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab73_funcoes_maior_grandeza.coverage" NAME="lab73_funcoes_maior_grandeza Coverage Results" MODIFIED="1599318578581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab23_named_tuple.coverage" NAME="lab23_named_tuple Coverage Results" MODIFIED="1597171287052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab59_leitura_de_arquivos.coverage" NAME="lab59_leitura_de_arquivos Coverage Results" MODIFIED="1598900076178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab62_escrevendo_em_arquivos.coverage" NAME="lab62_escrevendo_em_arquivos Coverage Results" MODIFIED="1598980888163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab25_definindo_funcoes.coverage" NAME="lab25_definindo_funcoes Coverage Results" MODIFIED="1597188080305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab40_reduce.coverage" NAME="lab40_reduce Coverage Results" MODIFIED="1597876985670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab54_modulos_builtin.coverage" NAME="lab54_modulos_builtin Coverage Results" MODIFIED="1598722039323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab11_loop_for.coverage" NAME="lab11_loop_for Coverage Results" MODIFIED="1596393629880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab47_zip.coverage" NAME="lab47_zip Coverage Results" MODIFIED="1598310828469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab48_erros_comuns.coverage" NAME="lab48_erros_comuns Coverage Results" MODIFIED="1598363812425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab56_modulos_externos.coverage" NAME="lab56_modulos_externos Coverage Results" MODIFIED="1598802382504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab55_modulos_customizados.coverage" NAME="lab55_modulos_customizados Coverage Results" MODIFIED="1598724565858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab53_modulo_random.coverage" NAME="lab53_modulo_random Coverage Results" MODIFIED="1598455176395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab58c_testando_dunder1.coverage" NAME="lab58c_testando_dunder1 Coverage Results" MODIFIED="1598826413651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab22_ordered_dict.coverage" NAME="lab22_ordered_dict Coverage Results" MODIFIED="1597167737736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab58d_testando_dunder2.coverage" NAME="lab58d_testando_dunder2 Coverage Results" MODIFIED="1598827364522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab72_generators_teste_velocidade.coverage" NAME="lab72_generators_teste_velocidade Coverage Results" MODIFIED="1599179825318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab65_sistema_arquivos_navegacao.coverage" NAME="lab65_sistema_arquivos_navegacao Coverage Results" MODIFIED="1599057772997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab46_len_abs_sum_round.coverage" NAME="lab46_len_abs_sum_round Coverage Results" MODIFIED="1598306113342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab24_deque.coverage" NAME="lab24_deque Coverage Results" MODIFIED="1597173602985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab15_listas.coverage" NAME="lab15_listas Coverage Results" MODIFIED="1596565989849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab61_bloco_with.coverage" NAME="lab61_bloco_with Coverage Results" MODIFIED="1598964730952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab64_stringio.coverage" NAME="lab64_stringio Coverage Results" MODIFIED="1598993835006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab66_sistema_arquivos_manipulacao.coverage" NAME="lab66_sistema_arquivos_manipulacao Coverage Results" MODIFIED="1599089451428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab70_geradores.coverage" NAME="lab70_geradores Coverage Results" MODIFIED="1599169653112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab58_dunder.coverage" NAME="lab58_dunder Coverage Results" MODIFIED="1598827154361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab37_lambdas.coverage" NAME="lab37_lambdas Coverage Results" MODIFIED="1597846557919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab69_escrevendo_iterador_customizado.coverage" NAME="lab69_escrevendo_iterador_customizado Coverage Results" MODIFIED="1599161490113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab17_dicionarios.coverage" NAME="lab17_dicionarios Coverage Results" MODIFIED="1596647007468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab79_classes.coverage" NAME="lab79_classes Coverage Results" MODIFIED="1599505632389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab7_tipo_string.coverage" NAME="lab7_tipo_string Coverage Results" MODIFIED="1596208648251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab57_pacotes.coverage" NAME="lab57_pacotes Coverage Results" MODIFIED="1598815231214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab34_listas_aninhadas.coverage" NAME="lab34_listas_aninhadas Coverage Results" MODIFIED="1597786458785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab77_forcando_tipos_dados_decorator.coverage" NAME="lab77_forcando_tipos_dados_decorator Coverage Results" MODIFIED="1599420613971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab10_and_or_not_is.coverage" NAME="lab10_and_or_not_is Coverage Results" MODIFIED="1596224435043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab26_funcoes_com_retorno.coverage" NAME="lab26_funcoes_com_retorno Coverage Results" MODIFIED="1597241880855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab50_try_except.coverage" NAME="lab50_try_except Coverage Results" MODIFIED="1598379025956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab63_modos_abertura_arquivos.coverage" NAME="lab63_modos_abertura_arquivos Coverage Results" MODIFIED="1598986031646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab51_trt_except_else_finally.coverage" NAME="lab51_trt_except_else_finally Coverage Results" MODIFIED="1598394014099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab82_objetos.coverage" NAME="lab82_objetos Coverage Results" MODIFIED="1600288047971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab6_tipo_booleano.coverage" NAME="lab6_tipo_booleano Coverage Results" MODIFIED="1596201149769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab19_conjuntos.coverage" NAME="lab19_conjuntos Coverage Results" MODIFIED="1596669985278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab49_raise.coverage" NAME="lab49_raise Coverage Results" MODIFIED="1598366046087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab44_min_max.coverage" NAME="lab44_min_max Coverage Results" MODIFIED="1598279443684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab68_criando_loops.coverage" NAME="lab68_criando_loops Coverage Results" MODIFIED="1599159276338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab58b_funcoes_com_parametros.coverage" NAME="lab58b_funcoes_com_parametros Coverage Results" MODIFIED="1598825584680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab38_map.coverage" NAME="lab38_map Coverage Results" MODIFIED="1597858290166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab30_args.coverage" NAME="lab30_args Coverage Results" MODIFIED="1597704121268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab71_teste_memoria_com_generators.coverage" NAME="lab71_teste_memoria_com_generators Coverage Results" MODIFIED="1599173508103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab60_seek_e_cursors.coverage" NAME="lab60_seek_e_cursors Coverage Results" MODIFIED="1598922409423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab18_mapas.coverage" NAME="lab18_mapas Coverage Results" MODIFIED="1596650393751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab20_counter.coverage" NAME="lab20_counter Coverage Results" MODIFIED="1596925094074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab9_if_else_elif.coverage" NAME="lab9_if_else_elif Coverage Results" MODIFIED="1596222527523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab78_orientacao_objetos_conceitos.coverage" NAME="lab78_orientacao_objetos_conceitos Coverage Results" MODIFIED="1599503791867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab13_loop_while.coverage" NAME="lab13_loop_while Coverage Results" MODIFIED="1596398237649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_completo$lab67_entendendo_iterators_iterables.coverage" NAME="lab67_entendendo_iterators_iterables Coverage Results" MODIFIED="1599139672881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

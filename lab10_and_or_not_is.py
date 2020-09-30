@@ -6,7 +6,7 @@ Operadores binários -> and, or e is
 
 O operandor and -> retorna True se ambos os operadores/variáveis forem True
 O operador or -> retorna True se ao menos um dos operadores/variáveis forem True
-O operador not -> retorna o valor booleano invertido se for True retorna False se for False retorna True
+O operador not -> retorna o valor booleano invertido -> for True retorna False se for False retorna True
 
 O operador is -> esta integrado em muitas funções Python => confira com dir(variável) => como exercíco
 confira e pratique!!!
@@ -37,4 +37,5 @@ else:
     print(f'Bem vindo usuário! => {ativo}')
 
 # Mostrando o operador binário is
-print(f'Podemos perceber o operador binário nesta simples operação booleana <=> {ativo} é {False} => {ativo is False}')
+print(f'Podemos perceber o operador binário nesta simples operação booleana <=> {ativo} é {False} => '
+      f'{not ativo is logado}')

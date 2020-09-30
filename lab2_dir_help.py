@@ -9,4 +9,5 @@ print(dir('Teste'))
 
 """
 
+
 print(dir('Teste'))

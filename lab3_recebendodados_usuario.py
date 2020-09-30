@@ -1,6 +1,7 @@
 """
     [Recendo dados do usuário]
-    Em Python tudo o que estiver entre aspas simples '', aspas duplas "", aspas simples triplas '''e aspas duplas triplas são considerados strings
+    Em Python tudo o que estiver entre aspas simples '', aspas duplas "", aspas simples triplas ''' e aspas duplas
+    triplas são considerados strings
 
 """
 # Exemplo do uso do print antigo Python 2.x

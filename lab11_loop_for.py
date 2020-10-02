@@ -53,7 +53,7 @@ for tudo in enumerate(nomes):
 
 # Exemplo de for -> 4 (definindo limite superior de execução)
 qtd = int(input('Quantas vezes devo executar o loop? -> '))
-for n in range (1, qtd + 1):
+for n in range(1, qtd + 1):
     print(f'Executando o for {qtd} => {n}')
 
 # Exemplo de for -> 5 (explorando ainda mais a iteratividade com o usuário)
@@ -71,7 +71,7 @@ print('\n')  # Só para deixar o curso na próxima linha
 
 # Exemplo de for -> 7 (usando Emojis => Unicode: https://apps.timwhitlock.info/emoji/tables/unicode
 # Extraido da tabela -> original: U+1F60B
-# Convertendo para Python -> U0001F60B <=> basta substituir o sina de + por três zeros
+# Convertendo para Python -> U0001F60B <=> basta substituir o sinal de + por três zeros
 for _ in range(3):
     for num in range(1, 11):
         print('\U0001F60B' * num)

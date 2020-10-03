@@ -1,4 +1,4 @@
-# -*- coding:utf8 -*-  # Necessário para sistema operacional Windows
+# -*- coding:utf8 -*-  # Necessário para sistema operacional Windows quando se deseja escrever em arquivos
 """
 Escrevendo em arquivos CSV =>   a lógica para escrever em arquivos CSV é a mesma utilizada na leitura, logo,
                                 podemos fazer a seguinte analogia:

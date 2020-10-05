@@ -1,7 +1,8 @@
 """
 Doctests -> Importante => dentro do doctests o Python não reconhece aspas duplas, é preciso ser aspas simples.
 
-        NOTA: um grande inconveniente dos doctests é que devemos reproduzir com exatidão nossas saídas
+        NOTA:   - um grande inconveniente dos doctests é que devemos reproduzir com exatidão nossas saídas
+                - Tome muito cuidado com o uso de comentários e das aspas, simples, duplas e triplas duplas
 
 
 Doctests são testes que colocamos na docstring das funções/métodos Python.

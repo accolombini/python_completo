@@ -39,7 +39,7 @@ lista1.sort()  # Atenção o método sort() não retorna valor, por exemplo, nã
 print(f'Depois de ordenada -> {lista1}')
 
 # Ordenando strings
-print(f'Vamos ordenar a a lista5 -> {lista5}')
+print(f'Vamos ordenar a lista5 -> {lista5}')
 lista5.sort()  # Atenção o método sort() não retorna valor, por exemplo, não é válido ordena = lista5.sort()
 print(f'Depois de ordenada -> {lista5}')
 

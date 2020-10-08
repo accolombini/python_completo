@@ -2,6 +2,31 @@
 Usando ferramentas para checagem de tipos em Python -> MyPy
 
     - Para maiores informações consulte: http://mypy-lang.org/
+    - Annotations nos ajuda a trabalharmos com Type Hinting (tipos em Python)
+        - O que são annotations -> apenas um nome bonito para:
+            - str -> é um annotation -> diz que se trata de um tipo string
+            - bool -> é um annotation -> diz que se trata de um tipo boolean
+            - ...
+
+# Considerações sobre annotations
+
+# Correto
+
+texto: str
+) -> str:
+alinhamento: bool = True
+
+# Incorreto
+
+texto:str
+texto : str
+)->str:
+) ->str:
+alinhamento:bool=True
+alinhamento : bool = True
+alinhamento :bool=True
+alinhamento: bool= True
+
 """
 
 # Reaproveitando o código do laboratório anterior

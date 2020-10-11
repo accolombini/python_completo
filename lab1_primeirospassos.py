@@ -1,4 +1,5 @@
-''' PEP 8  Python Enhancement Proposal (Propostas de aprimoramento do Python) -> https://www.python.org/dev/peps/
+'''
+PEP 8  Python Enhancement Proposal (Propostas de aprimoramento do Python) -> https://www.python.org/dev/peps/
 São orientações para que se construa códigos Python de qualidade. A ideia da PEP8 é a que possamos aprimorar e customizar a forma de escrever código Python -> alguns deles a seguir:
 1- Utilize Camel Case para atribuir nomes de classes;
 class Calculadora:
@@ -71,4 +72,5 @@ variavel_longa = 8
 8- Temine sempre uma instrução com uma nova linha
 
 '''
+
 import this

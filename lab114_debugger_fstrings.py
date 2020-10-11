@@ -1,5 +1,5 @@
 """
-Debugger mais simples com o uso de fstrings -> podemos facilmente debugar valores,
+Novidades da versão 3.8: Debugger mais simples com o uso de fstrings -> podemos facilmente debugar valores,
             bastando adicionar o sinal de igual
             Nota:   - basta usar a variável com um sinal de = -> print(f'{variavel=}")
                     - Você poderá usar esse recurso para testar seu código com muito mais recurso e propriedade
